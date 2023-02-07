@@ -1,0 +1,6 @@
+streamlit==1.14.0
+mailchimp3==3.0.17
+gspread-dataframe==3.3.0
+oauth2client==4.1.3
+gspread==5.7.1
+selenium==4.6.1
